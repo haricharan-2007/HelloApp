@@ -5,3 +5,4 @@
 //topics covered
 //usecase
 Updated for UC1 Palindrome usecase submission
+//working of usecase 2
