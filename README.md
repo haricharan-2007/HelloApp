@@ -1,2 +1,6 @@
-HelloApp Project
-Create README.md
+#PalindromeCheckerApp
+// running procedure
+//flow of project
+//objective
+//topics covered
+//usecase
